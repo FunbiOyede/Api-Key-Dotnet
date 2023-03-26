@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalApiKey", "MinimalApiKey\MinimalApiKey.csproj", "{FF8143A7-AA62-42C9-B0CC-B13A657395C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8143A7-AA62-42C9-B0CC-B13A657395C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8143A7-AA62-42C9-B0CC-B13A657395C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8143A7-AA62-42C9-B0CC-B13A657395C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8143A7-AA62-42C9-B0CC-B13A657395C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A151B85-FBAD-4FF3-9428-82013ADD6FE6}
+	EndGlobalSection
+EndGlobal
