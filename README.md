@@ -13,3 +13,7 @@ The Api key method is method of authenticating an application that communicates 
 An API or an application sends a request containing an api key to another api that recieves the requests and use the api key for identification, authorization and sends a response back.
 
 API keys identity the application or the api and not the user.
+
+
+
+![Api Key](img/ApiKey.png)
